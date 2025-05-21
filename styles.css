@@ -126,7 +126,7 @@ footer {
 }
 
 .search-container {
-  max-width: 600px;
+  width: 100%;
   margin: 0 auto;
   position: relative;
   text-align: center;
@@ -143,7 +143,7 @@ footer {
   padding: 5px 10px;
   border-radius: 4px;
   cursor: pointer;
-  font-size: 0.9rem;
+  font-size: 1.5rem;
 }
 
 .search-container h2 {
