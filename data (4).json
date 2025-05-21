@@ -1,0 +1,233 @@
+{
+  "templates": {
+    "type": "JSON",
+    "content": [
+      {
+        "id": "70798939",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "142402893",
+        "Flight": "WG516",
+        "Time": "17:15",
+        "HotelName": "Royalton CHIC Suites Cancun"
+      },
+      {
+        "id": "93415773",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "76212627",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "74583301",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "9890SE562596",
+        "Flight": "UPP000",
+        "Time": "15:00",
+        "HotelName": "Royalton CHIC Suites Cancun"
+      },
+      {
+        "id": "74346139",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "9890SE592230",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "142402893001",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "9890SF672557",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "9890SE568640",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "9890SF649640",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "71191256",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "143300613",
+        "Flight": "WG516",
+        "Time": "17:15",
+        "HotelName": "Royalton CHIC Suites Cancun"
+      },
+      {
+        "id": "76547641",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "9890SF664996",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "9890SF635110",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "3635854",
+        "Flight": "WS2315",
+        "Time": "16:55",
+        "HotelName": "Royalton CHIC Suites Cancun"
+      },
+      {
+        "id": "9890SF627895",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "76104835",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "9890SF669821",
+        "Flight": "13662",
+        "Time": "14:00",
+        "HotelName": "Royalton CHIC Suites Cancun"
+      },
+      {
+        "id": "BD1DXC",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "79518174",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "143300613001",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "96907649",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "MW3GWY",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "144108553001",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "5D1MZ1~31675272",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "91645219",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "99377153",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "90150974",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "9890SE592342",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "9890SF673617",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "74071937",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "9890SF625283",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "91598719",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      },
+      {
+        "id": "143452033001",
+        "Flight": "TBA000",
+        "Time": "⚠️",
+        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
+      }
+    ],
+    "source": {
+      "data_source": "Google Sheets (Private)",
+      "update_frequency": "Automated"
+    }
+  }
+}
