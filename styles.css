@@ -129,14 +129,9 @@ footer {
   width: 100%;
   margin: 0 auto;
   position: relative;
-  text-align: center;
 }
 
 .btn-back {
-  position: absolute;
-  top: 0;
-  left: 0;
-  transform: translateY(-50%);
   background: none;
   border: 2px solid #F17121;
   color: #F17121;
@@ -157,6 +152,8 @@ footer {
   display: inline-flex;
   justify-content: center;
   gap: 10px;
+  margin: auto;
+  width: 100%;
   margin-bottom: 10px;
 }
 
