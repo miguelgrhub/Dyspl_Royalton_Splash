@@ -3,105 +3,45 @@
     "type": "JSON",
     "content": [
       {
-        "id": "3650698",
-        "Flight": "WS2315",
-        "Time": "16:55",
+        "id": "4229189",
+        "Flight": "F9317",
+        "PickupDate": null,
+        "PickupTime": null,
         "HotelName": "Royalton Splash Riviera Cancun"
       },
       {
-        "id": "3860497",
-        "Flight": "DL620",
-        "Time": "12:40",
+        "id": "4229189",
+        "Flight": "F9317",
+        "PickupDate": null,
+        "PickupTime": null,
         "HotelName": "Royalton Splash Riviera Cancun"
       },
       {
-        "id": "69-7560271",
-        "Flight": "UA1653",
-        "Time": "07:58",
+        "id": "4233696",
+        "Flight": "F9317",
+        "PickupDate": null,
+        "PickupTime": null,
         "HotelName": "Royalton Splash Riviera Cancun"
       },
       {
-        "id": "3719786",
-        "Flight": "NOT CONFIRMED",
-        "Time": "⚠️",
-        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
-      },
-      {
-        "id": "3860794",
-        "Flight": "DL620",
-        "Time": "12:40",
+        "id": "4233733",
+        "Flight": "F9317",
+        "PickupDate": null,
+        "PickupTime": null,
         "HotelName": "Royalton Splash Riviera Cancun"
       },
       {
-        "id": "3859701",
-        "Flight": "DL620",
-        "Time": "12:40",
+        "id": "4233733",
+        "Flight": "UA1667",
+        "PickupDate": null,
+        "PickupTime": null,
         "HotelName": "Royalton Splash Riviera Cancun"
       },
       {
-        "id": "3719786",
-        "Flight": "B61230",
-        "Time": "12:30",
-        "HotelName": "Royalton Splash Riviera Cancun"
-      },
-      {
-        "id": "3861714",
-        "Flight": "B6152",
-        "Time": "12:05",
-        "HotelName": "Royalton Splash Riviera Cancun"
-      },
-      {
-        "id": "3651270",
-        "Flight": "WS2315",
-        "Time": "16:55",
-        "HotelName": "Royalton Splash Riviera Cancun"
-      },
-      {
-        "id": "3861725",
-        "Flight": "B6152",
-        "Time": "12:05",
-        "HotelName": "Royalton Splash Riviera Cancun"
-      },
-      {
-        "id": "3860803",
-        "Flight": "DL620",
-        "Time": "12:40",
-        "HotelName": "Royalton Splash Riviera Cancun"
-      },
-      {
-        "id": "3666963",
-        "Flight": "WS2425",
-        "Time": "13:10",
-        "HotelName": "Royalton Splash Riviera Cancun"
-      },
-      {
-        "id": "3861714",
-        "Flight": "B6152",
-        "Time": "12:05",
-        "HotelName": "Royalton Splash Riviera Cancun"
-      },
-      {
-        "id": "3859896",
-        "Flight": "DL620",
-        "Time": "12:40",
-        "HotelName": "Royalton Splash Riviera Cancun"
-      },
-      {
-        "id": "3983200",
-        "Flight": "NOT CONFIRMED",
-        "Time": "⚠️",
-        "HotelName": "CONTACT YOUR ROYALTON EXPERIENCE REP"
-      },
-      {
-        "id": "3983200",
-        "Flight": "WN0180",
-        "Time": "14:50",
-        "HotelName": "Royalton Splash Riviera Cancun"
-      },
-      {
-        "id": "3659102",
-        "Flight": "WS2315",
-        "Time": "16:55",
+        "id": "4233696",
+        "Flight": "F9317",
+        "PickupDate": null,
+        "PickupTime": null,
         "HotelName": "Royalton Splash Riviera Cancun"
       }
     ],
