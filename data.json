@@ -3,34 +3,18 @@
     "type": "JSON",
     "content": [
       {
-        "id": "HBLOV-25573677",
-        "Flight": "TOM143",
-        "PickupDate": "2025-08-07",
-        "PickupTime": "12:30",
+        "id": "3666670",
+        "Flight": "WS2065",
+        "PickupDate": "2025-08-08",
+        "PickupTime": "13:40",
         "HotelName": "Royalton Splash Riviera Cancun",
         "HotelNumber": 18866
       },
       {
-        "id": "HBLOV-25775773",
-        "Flight": "AA215",
-        "PickupDate": "2025-08-07",
-        "PickupTime": "11:30",
-        "HotelName": "Royalton Splash Riviera Cancun",
-        "HotelNumber": 18866
-      },
-      {
-        "id": "3677170",
-        "Flight": "WS2207",
-        "PickupDate": "2025-08-07",
-        "PickupTime": "10:50",
-        "HotelName": "Royalton Splash Riviera Cancun",
-        "HotelNumber": 18866
-      },
-      {
-        "id": "4344757",
-        "Flight": "F990",
-        "PickupDate": "2025-08-07",
-        "PickupTime": "09:05",
+        "id": "3666668",
+        "Flight": "WS2065",
+        "PickupDate": "2025-08-08",
+        "PickupTime": "13:40",
         "HotelName": "Royalton Splash Riviera Cancun",
         "HotelNumber": 18866
       }
