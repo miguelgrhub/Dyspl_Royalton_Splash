@@ -1,24 +1,7 @@
 {
   "templates": {
     "type": "JSON",
-    "content": [
-      {
-        "id": "3666670",
-        "Flight": "WS2065",
-        "PickupDate": "2025-08-08",
-        "PickupTime": "13:40",
-        "HotelName": "Royalton Splash Riviera Cancun",
-        "HotelNumber": 18866
-      },
-      {
-        "id": "3666668",
-        "Flight": "WS2065",
-        "PickupDate": "2025-08-08",
-        "PickupTime": "13:40",
-        "HotelName": "Royalton Splash Riviera Cancun",
-        "HotelNumber": 18866
-      }
-    ],
+    "content": [],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
