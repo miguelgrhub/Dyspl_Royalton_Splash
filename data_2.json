@@ -59,14 +59,6 @@
         "HotelNumber": 18866
       },
       {
-        "id": "38092SF607601",
-        "Flight": "TBA000",
-        "PickupDate": "2025-08-30",
-        "PickupTime": "⚠️",
-        "HotelName": "Royalton Splash Riviera Cancun",
-        "HotelNumber": 18866
-      },
-      {
         "id": "38092SF634777",
         "Flight": "TBA000",
         "PickupDate": "2025-08-30",
@@ -84,9 +76,9 @@
       },
       {
         "id": "38092SF607594",
-        "Flight": "TBA000",
+        "Flight": "UA1017",
         "PickupDate": "2025-08-30",
-        "PickupTime": "⚠️",
+        "PickupTime": "10:10",
         "HotelName": "Royalton Splash Riviera Cancun",
         "HotelNumber": 18866
       }
