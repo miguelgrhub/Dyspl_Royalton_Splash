@@ -1,7 +1,32 @@
 {
   "templates": {
     "type": "JSON",
-    "content": [],
+    "content": [
+      {
+        "id": "5925865035",
+        "Flight": "TBA000",
+        "PickupDate": "2025-11-10",
+        "PickupTime": "⚠️",
+        "HotelName": "Royalton Splash Riviera Cancun",
+        "HotelNumber": 18866
+      },
+      {
+        "id": "HBYE1845",
+        "Flight": "TBA000",
+        "PickupDate": "2025-11-10",
+        "PickupTime": "⚠️",
+        "HotelName": "Royalton Splash Riviera Cancun",
+        "HotelNumber": 18866
+      },
+      {
+        "id": "24181605-1",
+        "Flight": "TBA000",
+        "PickupDate": "2025-11-10",
+        "PickupTime": "⚠️",
+        "HotelName": "Royalton Splash Riviera Cancun",
+        "HotelNumber": 18866
+      }
+    ],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
